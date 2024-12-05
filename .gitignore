@@ -1,0 +1,6 @@
+# Ignore specific files
+Project/Untitled.ipynb
+Project/__pycache__/utils.cpython-313.pyc
+Project/medical_insurance.csv
+__pycache__/config.cpython-313.pyc
+ Project/.ipynb_checkpoints/Untitled-checkpoint.ipynb
